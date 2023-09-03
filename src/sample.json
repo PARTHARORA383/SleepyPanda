@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 68,
+  "articles": [
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Dean Seal",
+      "title": "Foot Locker Shares Sink Nearly 30% on Dividend Pause, Another Outlook Cut - The Wall Street Journal",
+      "description": "Retailer swings to second-quarter loss, anticipates lower full-year sales",
+      "url": "https://www.wsj.com/business/retail/foot-locker-fl-q2-earnings-report-2023-22ad1b50",
+      "urlToImage": "https://images.wsj.net/im-840351/social",
+      "publishedAt": "2023-08-23T23:47:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Right now money is moving into enterprise hardware and software, say Jim Cramer - CNBC Television",
+      "description": null,
+      "url": "https://www.youtube.com/watch?v=rJnkDvZ3z3s",
+      "urlToImage": null,
+      "publishedAt": "2023-08-23T23:08:47Z",
+      "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Julie Coleman",
+      "title": "Cramer sees opportunity in Dick's Sporting Goods, despite a rough quarter - CNBC",
+      "description": "CNBC's Jim Cramer dives into Dick's Sporting Goods after its disappointing second-quarter earnings report.",
+      "url": "https://www.cnbc.com/2023/08/23/cramer-sees-potential-in-dicks-sporting-goods-despite-down-quarter.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/103933728-GettyImages-492465433.jpg?v=1692831638&w=1920&h=1080",
+      "publishedAt": "2023-08-23T23:00:38Z",
+      "content": "While CNBC's Jim Cramer acknowledged Dick's Sporting Goods reported a rough quarter, he thinks Wall Street's reaction was a little extreme. The company's stock tumbled a little over 24% during Tuesda… [+1724 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Leslie Josephs",
+      "title": "Boeing says a new 737 Max flaw will slow airplane deliveries - CNBC",
+      "description": "Boeing said a new manufacturing flaw on its best-selling 737 Max planes will delay deliveries of the aircraft.",
+      "url": "https://www.cnbc.com/2023/08/23/boeing-says-a-new-737-max-flaw-will-slow-airplane-deliveries.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106338206-1579105164473rts2xx45.jpg?v=1692831544&w=1920&h=1080",
+      "publishedAt": "2023-08-23T22:59:04Z",
+      "content": "Boeing said a new manufacturing flaw on its best-selling 737 Max will delay deliveries of its best-selling aircraft, the latest setback as the company tries to hand over more planes.\r\nThe company sai… [+1746 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KLAS - 8 News Now"
+      },
+      "author": "Julia Romero",
+      "title": "Allegiant Air encourages Las Vegas passengers to arrive at Harry Reid International Airport early - KLAS - 8 News Now",
+      "description": "Allegiant Airline passengers headed to Harry Reid International Airport are advised to arrive at least three hours prior to their scheduled departure. The airline posted the advisory on its social media page X on Wednesday morning citing a recent system updat…",
+      "url": "https://www.8newsnow.com/news/local-news/allegiant-air-encourages-passengers-in-las-vegas-to-arrive-at-harry-reid-early/",
+      "urlToImage": "https://www.8newsnow.com/wp-content/uploads/sites/59/2017/10/allegiant-airlines-getty_1507018105752_27150720_ver1.0.jpg?w=1280",
+      "publishedAt": "2023-08-23T22:23:17Z",
+      "content": "LAS VEGAS (KLAS) – Allegiant Airline passengers headed to Harry Reid International Airport are advised to arrive at least three hours before their scheduled departure.\r\nThe airline posted the advisor… [+1010 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KATU"
+      },
+      "author": "KATU Staff",
+      "title": "Washington company recalls frozen vegetables sold nationwide over potential listeria contamination - KOMO News",
+      "description": "A Washington company is recalling frozen vegetables sold nationwide, saying the corn may have been contaminated by listeria.Twin City Foods of Stanwood, Washing",
+      "url": "https://katu.com/news/local/washington-company-recalls-frozen-vegetables-sold-nationwide-over-potential-listeria-contamination",
+      "urlToImage": "https://komonews.com/resources/media/6b51a8fe-eb0c-4218-8527-3fe47c446165-large16x9_FrozenveggiesrecalledbyWashingtoncompanyFDAimages.jpg",
+      "publishedAt": "2023-08-23T22:14:03Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Alexander Gladstone, Alexander Saeedy",
+      "title": "Mallinckrodt Lenders to Take Control in Bankruptcy That Cuts $1 Billion in Opioid Payments - The Wall Street Journal",
+      "description": "The pharmaceutical company plans to leave most of a prior opioid settlement pledge unpaid",
+      "url": "https://www.wsj.com/articles/mallinckrodt-to-file-for-second-bankruptcy-amid-opioid-payments-e6151c71",
+      "urlToImage": "https://images.wsj.net/im-793873/social",
+      "publishedAt": "2023-08-23T22:02:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Reuters",
+      "title": "Goldman, JPMorgan, Morgan Stanley, UBS in $499 million stock lending settlement - CNN",
+      "description": "Goldman Sachs, JPMorgan Chase, Morgan Stanley and UBS have agreed to pay $499 million to settle an antitrust lawsuit by investors who accused them of conspiring to stifle competition in the stock lending market.",
+      "url": "https://www.cnn.com/2023/08/23/business/stock-lending-settlement/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230724151740-01-ubs-credit-suisse-banks-0320-file.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-08-23T21:55:00Z",
+      "content": "Goldman Sachs, JPMorgan Chase, Morgan Stanley and UBS have agreed to pay $499 million to settle an antitrust lawsuit by investors who accused them of conspiring to stifle competition in the stock len… [+942 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Erika Edwards",
+      "title": "New warning from FDA against using contaminated eyedrops - NBC News",
+      "description": "The FDA is urging people to stop using certain brands of eyedrops found to have fungal and bacterial contamination.",
+      "url": "https://www.nbcnews.com/health/health-news/new-warning-fda-using-contaminated-eyedrops-rcna101400",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-08/230823-eye-drops-msm-fda-warning-cs-203f20.jpg",
+      "publishedAt": "2023-08-23T21:52:14Z",
+      "content": "The Food and Drug Administration is urging people to stop using certain brands of eyedrops found to have fungal and bacterial contamination.\r\nThe drops in question are Dr. Berne's MSM Drops 5% Soluti… [+2247 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Heather Kelly, Trisha Thadani",
+      "title": "Ikea opens in San Francisco, bringing hope to a struggling downtown - The Washington Post",
+      "description": "Ikea opens in downtown San Francisco, ushering in a bit of optimism and joy for a city still struggling to rebound from the pandemic.",
+      "url": "https://www.washingtonpost.com/technology/2023/08/23/ikea-san-francisco-downtown/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VQIOYHYRU4HNTNJBH66DGZPXIA_size-normalized.JPG&w=1440",
+      "publishedAt": "2023-08-23T21:19:00Z",
+      "content": "Comment on this story\r\nComment\r\nSAN FRANCISCO In a city still struggling to rebound from the pandemic, officials are pinning their hopes on an unlikely hero for the beleaguered downtown: plates of ch… [+7045 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Carolina Mandl, Chris Prentice",
+      "title": "US SEC overhauls rules for $20 trillion private fund industry - Reuters.com",
+      "description": "The U.S. securities regulator on Wednesday adopted new rules that will shine a light on private equity and hedge fund expenses and fees, in what executives and lawyers said marks a sweeping overhaul for an industry long criticized for its opacity.",
+      "url": "https://www.reuters.com/markets/us/us-sec-votes-overhaul-20-trillion-private-fund-industry-2023-08-23/",
+      "urlToImage": "https://www.reuters.com/resizer/Vb5rQNtneqo8cdEGKbgfWvcTZ64=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TLH6X527XNIJ3N6WEVGQPBYWBE.jpg",
+      "publishedAt": "2023-08-23T20:50:00Z",
+      "content": "NEW YORK, Aug 23 (Reuters) - The U.S. securities regulator on Wednesday adopted new rules that will shine a light on private equity and hedge fund expenses and fees, in what executives and lawyers sa… [+3600 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Devlin Barrett",
+      "title": "Creators of Tornado Cash charged with laundering more than $1 billion - The Washington Post",
+      "description": "Two men, one of them a Russian citizen, are accused of running a money laundering scheme that moved more than $1 billion, including for North Korean hackers.",
+      "url": "https://www.washingtonpost.com/national-security/2023/08/23/fbi-crypto-launder-tornado-korea/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BGMGPJLEPYJ4BXE6G2ZV4X3GH4_size-normalized.JPG&w=1440",
+      "publishedAt": "2023-08-23T20:26:00Z",
+      "content": "Comment on this story\r\nComment\r\nFederal authorities on Wednesday charged two men with running a massive money-laundering scheme that allegedly handled more than $1 billion in illegal transactions, in… [+3018 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Reuters",
+      "title": "Esmark scraps bid for U.S. Steel - Reuters",
+      "description": "Privately held steel company Esmark said on Wednesday it would not participate in the purchase process for U.S. Steel Corp <a href=\"https://www.reuters.com/markets/companies/X.N\" target=\"_blank\">(X.N)</a> and respect the position of the United Steel Workers (…",
+      "url": "https://www.reuters.com/markets/deals/esmark-not-bid-us-steel-2023-08-23/",
+      "urlToImage": "https://www.reuters.com/resizer/YBc6tRGLAxW79ezShUxh1uruJ2M=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/C3PRREBAOZJQRMCCQC5YZHE2UM.jpg",
+      "publishedAt": "2023-08-23T20:21:00Z",
+      "content": "Aug 23 (Reuters) - Privately held steel company Esmark said on Wednesday it would not participate in the purchase process for U.S. Steel Corp (X.N) and respect the position of the United Steel Worker… [+979 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Bertha Coombs",
+      "title": "CVS pushes into making cheaper versions of complex drugs with new discount Humira - CNBC",
+      "description": "CVS is looking to strengthen its foothold in the biosimilars market, which is expected to grow to $100 billion over the next six years.",
+      "url": "https://www.cnbc.com/2023/08/23/cvs-health-sandoz-humira-biosimilar.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107144037-1667311858348-gettyimages-1240548754-RAFAPRESS_08052022-00240.jpeg?v=1692821752&w=1920&h=1080",
+      "publishedAt": "2023-08-23T20:15:52Z",
+      "content": "CVS Health is partnering with drugmaker Sandoz to produce a near identical version of the blockbuster arthritis treatment Humira that will sell for 80% below the price of the brand-named drug.\r\nThe m… [+3626 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Pia Singh, Alex Harring",
+      "title": "Nasdaq extends 3-day streak, S&P closes up 1% ahead of Nvidia earnings: Live updates - CNBC",
+      "description": "Investors looked ahead to earnings from Nvidia and other big-name stocks.",
+      "url": "https://www.cnbc.com/2023/08/22/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107291042-1692822362723-a3_img_100_99_112_1917665_1000-1692822247193.jpg?v=1692822520&w=1920&h=1080",
+      "publishedAt": "2023-08-23T20:01:52Z",
+      "content": "Stocks ended higher on Wednesday as Wall Street awaited the latest quarterly figures from Nvidia, the high-flying chipmaker that's been bolstered by the artificial intelligence craze on Wall Street. … [+2305 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Reuters",
+      "title": "SpaceX working with Cloudflare to speed up Starlink service- The Information - Reuters",
+      "description": "Elon Musk-owned SpaceX is working with Cloudflare <a href=\"https://www.reuters.com/markets/companies/NET.N\" target=\"_blank\">(NET.N)</a> to boost the performance of its satellite internet service Starlink, the Information reported on Wednesday, citing a person…",
+      "url": "https://www.reuters.com/science/spacex-working-with-cloudflare-speed-up-starlink-service-information-2023-08-23/",
+      "urlToImage": "https://www.reuters.com/resizer/zuxaCdT6NTihvfXk6jqNAQPaCJc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/73PVHSXKT5LIHDTFDWHUSDQTL4.jpg",
+      "publishedAt": "2023-08-23T19:58:00Z",
+      "content": "Aug 23 (Reuters) - Elon Musk-owned SpaceX is working with Cloudflare (NET.N) to boost the performance of its satellite internet service Starlink, the Information reported on Wednesday, citing a perso… [+802 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Associated Press",
+      "title": "Southwest limits 'EarlyBird' service perk that lets passengers nab prime seats - New York Post ",
+      "description": "EarlyBird buyers can avoid the rat race and secure a prime spot in the boarding line by checking in before the normal check-in process starts, which is 24 hours before departure.",
+      "url": "https://nypost.com/2023/08/23/southwest-limits-earlybird-service-perk-that-lets-passengers-nab-prime-seats/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/08/NYPICHPDPICT000026657503.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2023-08-23T19:51:00Z",
+      "content": "Southwest Airlines is changing its unusual boarding system by limiting the opportunity to pay an extra fee and jump ahead of other passengers in the race for the best seats.\r\nThe airline said Wednesd… [+1441 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Breck Dumas",
+      "title": "Modelo topples Bud Light to become America's best-selling beer for the year - Fox Business",
+      "description": "Modelo has officially knocked Bud Light off its longstanding pedestal as the top-selling beer in America on an annual basis, ending the Anheuser-Busch brand's 22-year reign.",
+      "url": "https://www.foxbusiness.com/markets/modelo-topples-bud-light-americas-best-selling-beer-year",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/06/0/0/modelo.jpg?ve=1&tl=1",
+      "publishedAt": "2023-08-23T19:10:18Z",
+      "content": "After reigning more than two decades as the top-selling beer in the U.S. on an annual basis, Bud Light has officially been knocked off its pedestal.\r\nModelo Especial surpassed the beleaguered Anheuse… [+3128 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Julie Hyman",
+      "title": "Goldman Sachs is just as bullish on AI as big tech - Yahoo Finance",
+      "description": "Goldman Sachs's information chief, a veteran of Amazon Web Services, says AI could disrupt \"all digital and all information and knowledge industries.\" He...",
+      "url": "https://finance.yahoo.com/news/goldman-sachs-is-just-as-bullish-on-ai-as-big-tech-190417846.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Y7ol.b6JendE.hjPXeZryA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODk-/https://s.yimg.com/os/creatr-uploaded-images/2021-08/869e42c0-f699-11eb-bddc-603b6f3c9422",
+      "publishedAt": "2023-08-23T19:04:17Z",
+      "content": "The man charged with steering the tech strategy of one of Wall Streets biggest firms is just as excited about the opportunities in AI as any of his counterparts in Silicon Valley.\r\nMarco Argenti, Gol… [+2539 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Tanaya Macheel",
+      "title": "Crypto market bounces off recent sell-off, bitcoin rises to $26,500 - CNBC",
+      "description": "Cryptocurrencies rose Wednesday as investors continued to grapple with the market's summer doldrums.",
+      "url": "https://www.cnbc.com/2023/08/23/crypto-market-bounces-off-of-recent-sell-off-bitcoin-rises-to-26500.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/104977175-GettyImages-903721318.jpg?v=1692817113&w=1920&h=1080",
+      "publishedAt": "2023-08-23T18:58:33Z",
+      "content": "Cryptocurrencies rose Wednesday as investors continued to grapple with the market's summer doldrums and looked ahead to the Federal Reserve's annual meeting in Jackson Hole, Wyoming, on Friday.\r\nBitc… [+1846 chars]"
+    }
+  ]
+}
